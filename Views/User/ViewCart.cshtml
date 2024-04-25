@@ -1,0 +1,103 @@
+﻿@model ITI_Project.Models.Cart
+
+@{
+    ViewData["Title"] = "ViewCart";
+    string s = Model.Products.Count() == 1 ? "item" : "items";
+}
+
+
+
+@if(Model.Products.Count() == 0)
+{
+    <div style="position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align:center;">
+        <h1>
+            Your Cart Is Empty
+        </h1>
+        <a asp-action="Index" class="btn btn-outline-secondary text-center mt-2">Back To List</a>
+    </div>
+}
+else
+{
+    
+
+    <div style="position: relative;
+            left: 50%;
+            transform: translateX(-50%);"
+         class="mb-3 text-center">
+        <h1>My Cart has @Model.Products.Count() @s</h1>
+        <a asp-action="Index" class="btn btn-outline-secondary text-center mt-2">Back to List</a>
+        <!-- Button to trigger the Bootstrap popup modal -->
+        <button type="button"class="btn btn-outline-success text-center mt-2" data-bs-toggle="modal" data-bs-target="#myModal">
+            Checkout
+        </button>
+        
+    </div>
+    <hr />
+    <h2 style="text-align: center;
+        color: green;
+        font-size: 45px;">
+        Your Total is @Model.Total$
+    </h2>
+    <!-- Section-->
+    <section class="py-5">
+        <div class="container px-4 px-lg-5 mt-5">
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                @foreach (var item in Model.Products)
+                {
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                            <img class="card-img-top" src="/assets/@item.ImageUrl" alt="..." style="height: 100%;" />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">@item.Name</h5>
+                                    <!-- Product price-->
+                                    @item.Price $
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center">
+                                    <a class="btn btn-outline-danger mt-3" asp-route-productid="@item.Id"
+                                       asp-action="DeleteFromCart">remove Product</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+}
+
+<!-- Bootstrap popup Modal for confirmation-->
+<div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Payment Confirmation</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Popup content goes here -->
+                <p>You want to buy @Model.Products.Count() @s for @Model.Total$</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <a asp-action="Checkout" class="btn btn-primary" data-bs-toggle="modal2" data-bs-target="#myModal2">Confirm</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+

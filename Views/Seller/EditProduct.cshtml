@@ -1,0 +1,49 @@
+﻿@model ITI_Project.Models.Product
+
+@{
+    ViewData["Title"] = "EditProduct";
+}
+
+<h1>Edit @Model.Name</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditProduct" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input asp-for="Id" value="@Model.Id" hidden class="form-control" />
+            <input asp-for="CartId" value="@Model.CartId" hidden class="form-control" />
+            <input asp-for="PersonId" value="@Model.PersonId" hidden class="form-control" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="file" class="control-label">Image</label>
+                <input asp-for="file" type="file" class="form-control" />
+                <span asp-validation-for="file" class="text-danger"></span>
+                <input asp-for="ImageUrl" hidden />
+            </div>
+            <div class="form-group mt-3">
+                <a asp-action="Index" asp-route-id="@Model.PersonId" class="btn btn-outline-secondary">Go Back</a>
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

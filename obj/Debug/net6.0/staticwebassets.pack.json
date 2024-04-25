@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ITI-Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ITI-Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p1.jpg20230905_045837.jpg",
+      "PackagePath": "staticwebassets\\assets\\p1.jpg20230905_045837.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p2.jpg20230905_050126.jpg",
+      "PackagePath": "staticwebassets\\assets\\p2.jpg20230905_050126.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p2.jpg20230905_050607.jpg",
+      "PackagePath": "staticwebassets\\assets\\p2.jpg20230905_050607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p2.jpg20230905_050843.jpg",
+      "PackagePath": "staticwebassets\\assets\\p2.jpg20230905_050843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p3.jpg20230905_024200.jpg",
+      "PackagePath": "staticwebassets\\assets\\p3.jpg20230905_024200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p4.jpg20230902_234421.jpg",
+      "PackagePath": "staticwebassets\\assets\\p4.jpg20230902_234421.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p4.jpg20230905_024642.jpg",
+      "PackagePath": "staticwebassets\\assets\\p4.jpg20230905_024642.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p5.jpg20230905_060544.jpg",
+      "PackagePath": "staticwebassets\\assets\\p5.jpg20230905_060544.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p6.jpg",
+      "PackagePath": "staticwebassets\\assets\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p6.jpg20230904_035733.jpg",
+      "PackagePath": "staticwebassets\\assets\\p6.jpg20230904_035733.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p6.jpg20230905_072218.jpg",
+      "PackagePath": "staticwebassets\\assets\\p6.jpg20230905_072218.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p6.jpg20230905_072228.jpg",
+      "PackagePath": "staticwebassets\\assets\\p6.jpg20230905_072228.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\p6.jpg20230905_081325.jpg",
+      "PackagePath": "staticwebassets\\assets\\p6.jpg20230905_081325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\shuffle-05.jpg20230902_082449.jpg",
+      "PackagePath": "staticwebassets\\assets\\shuffle-05.jpg20230902_082449.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\shuffle-05.jpg20230902_082616.jpg",
+      "PackagePath": "staticwebassets\\assets\\shuffle-05.jpg20230902_082616.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\shuffle-05.jpg20230902_083533.jpg",
+      "PackagePath": "staticwebassets\\assets\\shuffle-05.jpg20230902_083533.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\skills-01.jpg20230902_072351.jpg",
+      "PackagePath": "staticwebassets\\assets\\skills-01.jpg20230902_072351.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\skills-01.jpg20230902_080053.jpg",
+      "PackagePath": "staticwebassets\\assets\\skills-01.jpg20230902_080053.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\assets\\subscribe.jpg20230902_072326.jpg",
+      "PackagePath": "staticwebassets\\assets\\subscribe.jpg20230902_072326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M7md Tarek\\Desktop\\ITI-Project\\ITI-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ITI-Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ITI-Project.props",
+      "PackagePath": "build\\ITI-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ITI-Project.props",
+      "PackagePath": "buildMultiTargeting\\ITI-Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ITI-Project.props",
+      "PackagePath": "buildTransitive\\ITI-Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
