@@ -8,7 +8,10 @@ it, add a new one and delete anyone of it.
 ## $\color{#4203c9}{📷 Video for the project}$
 
 
-https://github.com/M7mdTarek/E-Commerce/assets/100175518/ffdc4501-7ce2-4c37-a168-0d48d5b16c52
+
+
+https://github.com/user-attachments/assets/78b26c75-f940-4a15-8768-0c5b708b216c
+
 
 
 
